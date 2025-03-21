@@ -18,6 +18,7 @@ sudo apt-get install nodejs -y
 tiếp theo qua website upload copy link file mà bạn đã upload
 lệnh upload trên terminal: curl -O link --insecure
 vd: curl -O https://example.com/file.js --insecure
+
 -----------------------------------------------------------------
 
 sau khi upload đủ cả 2 file dùng: ls để kiểm tra xem đã có 2 file vừa upload chưa
