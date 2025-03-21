@@ -31,3 +31,6 @@ vd: node CF-Strong.js http://www.thayphet.net/ 300 64 12 Proxy.txt
 
 Cách kiểm tra số luồng hiện có trên terminal: lscpu
 Kiếm dòng: Thread(s) per core:
+
+-----------------------------------------------------------------
+Video demo: https://drive.google.com/drive/folders/1-1xk5OsQfggS5ElGYyeTKvF5iki3IOnp?usp=sharing
