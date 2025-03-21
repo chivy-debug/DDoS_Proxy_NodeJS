@@ -6,6 +6,8 @@ https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=100
 https://upload-vpn.vinahost.vn/ (website upload file len terminal remote tren website)
 kéo thả file proxy và script chạy(đã gửi) lên trang web
 
+Linux
+-----------------------------------------------------------------
 qua terminal bên ec2
 copy lệnh dưới và dán vào:
 sudo apt update -y
@@ -15,6 +17,7 @@ sudo apt-get install nodejs -y
 tiếp theo qua website upload copy link file mà bạn đã upload
 lệnh upload trên terminal: curl -O link --insecure
 vd: curl -O https://example.com/file.js --insecure
+-----------------------------------------------------------------
 
 sau khi upload đủ cả 2 file dùng: ls để kiểm tra xem đã có 2 file vừa upload chưa
 dùng tiếp lệnh npm i colors
